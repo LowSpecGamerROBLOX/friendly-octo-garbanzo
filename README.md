@@ -1,4 +1,7 @@
 <div align="center">
+    <a href="https://github.com/LowSpecGamerROBLOX/Roblox-Client-Optimizer-Mac">
+        <img height=200 src=""/>
+    </a>
     <h1>Roblox Client Optimizer Mac</h1>
     <p>Unofficial mac port of Roblox Client Optimizer for macOS</p>
 </div>
@@ -10,6 +13,10 @@ You should only use this for the time being as i'm sure Roblox Client Optimizer 
 ## About
 
 This is a simple tool that fetches the ClientAppSettings.json hosted on the official ROC url and automatically places it in its respective directory for your convienience
+
+## Credits
+
+I borrowed the header from the ROC readme file
 
 ## TODO
 
