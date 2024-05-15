@@ -1,4 +1,4 @@
-# THIS HAS BEEN DISCONTINUED
+# THIS HAS BEEN DISCONTINUED, DON'T USE THIS
 
 <div align="center">
     <a href="https://github.com/LowSpecGamerROBLOX/Roblox-Client-Optimizer-Mac">
