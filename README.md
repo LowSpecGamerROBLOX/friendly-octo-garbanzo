@@ -1,3 +1,5 @@
+# THIS HAS BEEN DISCONTINUED
+
 <div align="center">
     <a href="https://github.com/LowSpecGamerROBLOX/Roblox-Client-Optimizer-Mac">
         <img height=200 src=""/>
