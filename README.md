@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/LowSpecGamerROBLOX/Roblox-Client-Optimizer-Mac">
-        <img height=200 src=""/>
+        <img height=200 src="thumbnails/blank.png"/>
     </a>
     <h1>Roblox Client Optimizer Mac</h1>
     <p>Unofficial mac port of Roblox Client Optimizer for macOS</p>
@@ -10,7 +10,7 @@
 
 ## Disclaimer
 
-You should only use this for the time being as i'm sure Roblox Client Optimizer will be expanded to support macOS
+You should only use this for the time being as I'm sure Roblox Client Optimizer will be expanded to support macOS
 
 ## About
 
